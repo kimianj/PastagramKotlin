@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParsgramKotlin</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">h0AzZ8gkCBAtYHlVoqaqL10z4HK3bCM869LZ58UE</string>
+    <string name="back4app_client_key">krpk16jh6jzaonEwx7qd8j9J9BAeW4rEWYrjOTCb</string>
+</resources>
